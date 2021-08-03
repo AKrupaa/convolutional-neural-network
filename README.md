@@ -5,4 +5,4 @@
 ![](images/result.png)
 
 
-#### Open image_classification.ipynb in Jupyter
+#### Open image_classification.ipynb in Jupyter for code and text!
